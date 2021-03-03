@@ -9,4 +9,4 @@ our viev can be
 
 ## Option 1: Robo Advisor for Retirement Plans
 
-![Robot](First-Contract/Videos/AssociateProfitSplitter Part 01.gif)
+![Robot](Flat People Characters Vector Collection.png)
