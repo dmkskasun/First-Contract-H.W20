@@ -11,6 +11,6 @@ our viev can be
 
 ![Robot](Flat People Characters Vector Collection.png)
 
-![Robot](Images/robot.jpg)
+![Robot](Images/robot.png)
 
 ![gear_icon](Images/gear_icon.png)
