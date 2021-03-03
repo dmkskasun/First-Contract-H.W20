@@ -13,4 +13,4 @@ our viev can be
 
 ![Robot](Images/robot.png)
 
-![gear_icon](Images/gear_icon.png)
+![gear_icon](Images/gear_icon.gif)
