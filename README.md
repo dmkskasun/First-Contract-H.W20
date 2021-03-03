@@ -10,3 +10,7 @@ our viev can be
 ## Option 1: Robo Advisor for Retirement Plans
 
 ![Robot](Flat People Characters Vector Collection.png)
+
+![Robot](Images/robot.jpg)
+
+![gear_icon](Images/gear_icon.png)
