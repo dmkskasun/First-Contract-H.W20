@@ -18,9 +18,9 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 * [`AssociateProfitSplitter.sol`](First-Contract/AssociateProfitSplitter.sol) -- Level 1 starter code.
 
-* [`TieredProfitSplitter.sol`](First-Contrac/TieredProfitSplitter.sol) -- Level 2 starter code.
+* [`TieredProfitSplitter.sol`](First-Contract/TieredProfitSplitter.sol) -- Level 2 starter code.
 
-* [`DeferredEquityPlan.sol`](First-Contrac/DeferredEquityPlan.sol) -- Level 3 starter code.
+* [`DeferredEquityPlan.sol`](First-Contract/DeferredEquityPlan.sol) -- Level 3 starter code.
 
 
 ### Level One: The `AssociateProfitSplitter` Contract
