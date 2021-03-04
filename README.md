@@ -16,7 +16,7 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 ## Files
 
-* [`AssociateProfitSplitter.sol`](Starter-Code/AssociateProfitSplitter.sol) -- Level 1 starter code.
+* [`AssociateProfitSplitter.sol`](First-Contract/AssociateProfitSplitter.sol) -- Level 1 starter code.
 
 * [`TieredProfitSplitter.sol`](Starter-Code/TieredProfitSplitter.sol) -- Level 2 starter code.
 
@@ -30,8 +30,31 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 #### Part 02.
 
-![gear_icon](Images/gear_icon.gif)
+![gear_icon](Images/gear_icon_2.gif)
 
 #### Part 03.
 
-![gear_icon](Images/gear_icon.gif)
+![gear_icon](Images/gear_icon_3.gif)
+
+### Level Two: 
+
+In this contract, rather than splitting the profits between Associate-level employees, you will calculate rudimentary percentages for different tiers of employees (CEO, CTO, and Bob).
+#### Level two Part 01.
+
+![gear_icon](Images/gear_icon_4.gif)
+
+#### Level two Part 02.
+
+![gear_icon](Images/gear_icon_5.gif)
+
+### Level Three: The `DeferredEquityPlan` Contract
+
+In this contract, we will be managing an employee's "deferred equity incentive plan" in which 1000 shares will be distributed over 4 years to the employee. We won't need to work with Ether in this contract, but we will be storing and setting amounts that represent the number of distributed shares the employee owns and enforcing the vetting periods automatically.
+
+#### Level three Part 01.
+
+![gear_icon](Images/gear_icon_4.gif)
+
+#### Level three Part 02.
+
+![gear_icon](Images/gear_icon_5.gif)
