@@ -30,8 +30,8 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 #### Part 02.
 
-![gear_icon](Images/gear_icon.gif)
+![gear_icon](Images/gear_icon_2.gif)
 
 #### Part 03.
 
-![gear_icon](Images/gear_icon.gif)
+![gear_icon](Images/gear_icon_3.gif)
