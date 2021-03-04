@@ -24,7 +24,14 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 
 ### Level One: The `AssociateProfitSplitter` Contract
+#### Part 01.
 
+![gear_icon](Images/gear_icon.gif)
 
+#### Part 02.
+
+![gear_icon](Images/gear_icon.gif)
+
+#### Part 03.
 
 ![gear_icon](Images/gear_icon.gif)
