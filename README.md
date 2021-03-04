@@ -59,10 +59,7 @@ In this contract, we will be managing an employee's "deferred equity incentive p
 
 
 
-#### Level three Part 01.
+#### Level Three
 
-![gear_icon](Images/gear_icon_4.gif)
+![gear_icon](Images/gear_icon_6.gif)
 
-#### Level three Part 02.
-
-![gear_icon](Images/gear_icon_5.gif)
