@@ -1,16 +1,37 @@
-# Looks-like-we-ve-made-our-First-Contract - long
+# First-Contract - Home-Work 20
 
-## Back
-![contract](First-Contract/Videos/AssociateProfitSplitter Part 01.gif)
+![contract](Images/smart-contract.png)
 
-our viev can be
+## Background
 
-![Flat](Flat People Characters Vector Collection.png)
+Your new startup has created its own Ethereum-compatible blockchain to help connect financial institutions, and the team wants to build smart contracts to automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic!
 
-## Option 1: Robo Advisor for Retirement Plans
+Fortunately, you've been learning how to program smart contracts with Solidity! What you will be doing this assignment is creating 3 `ProfitSplitter` contracts. These contracts will do several things:
 
-![Robot](Flat People Characters Vector Collection.png)
+* Pay your Associate-level employees quickly and easily.
 
-![Robot](Images/robot.png)
+* Distribute profits to different tiers of employees.
 
-![gear_icon](Images/gear_icon.png)
+* Distribute company shares for employees in a "deferred equity incentive plan" automatically.
+
+## Files
+
+* [`AssociateProfitSplitter.sol`](Starter-Code/AssociateProfitSplitter.sol) -- Level 1 starter code.
+
+* [`TieredProfitSplitter.sol`](Starter-Code/TieredProfitSplitter.sol) -- Level 2 starter code.
+
+* [`DeferredEquityPlan.sol`](Starter-Code/DeferredEquityPlan.sol) -- Level 3 starter code.
+
+
+### Level One: The `AssociateProfitSplitter` Contract
+#### Part 01.
+
+![gear_icon](Images/gear_icon.gif)
+
+#### Part 02.
+
+![gear_icon](Images/gear_icon.gif)
+
+#### Part 03.
+
+![gear_icon](Images/gear_icon.gif)
